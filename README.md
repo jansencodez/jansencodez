@@ -1,72 +1,71 @@
-# Cliff Jansen - GitHub Profile
+<h1 align="center">Hey 👋, I'm Jansen (aka jansencodez)</h1>
+<h3 align="center">🧑‍💻 Student · Software Engineer · Startup Builder</h3>
 
-Welcome to my GitHub profile! I'm Jansen, a software engineer passionate about building innovative solutions and working on exciting projects. 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jansencodez/jansencodez/main/assets/banner.png" alt="Banner" />
+</p>
 
-## About Me
+---
 
-I specialize in creating web and mobile applications, with a focus on building scalable and efficient systems. I love listening to music and am always eager to explore new technologies and frameworks to enhance my projects.
+### 🚀 About Me
 
-### Current Projects
-- **Farmus**: A React Native project aimed at helping local farmers connect with clients. The app allows farmers to create accounts, upload products, and interact with buyers. It uses Expo, MongoDB, and integrates Google authentication.
-- **Glamora**: A beauty product e-commerce web app built using Next.js and styled with Tailwind CSS. It aims to offer an engaging shopping experience with a chatbot that mimics natural conversations.
-- **Weva Tech**: A new tech company based in Kenya, focused on building impactful tech solutions. We're working on various projects, including AI models and SaaS products.
+- 🔭 Currently building: **Tuwash** (Laundry SaaS), **Bytenuru** (My product studio), and **ThoughtChain** (AI-powered finance insight tool)
+- 🛠 I work with: **Flutter**, **Next.js**, **Supabase**, **FastAPI**, **Tailwind**, and more
+- 🧠 Exploring: agentic AI, multi-tenant systems, advanced Supabase RLS, and design systems
+- 🎧 Coder by day, vibing to music by night
+- 🌍 Based in Kenya, solving problems globally
 
-## Technologies I Use
+---
 
-- **Frontend**: React, React Native (Expo), Next.js, Tailwind CSS
-- **Backend**: FastAPI, MongoDB
-- **Authentication**: Google Auth, Session Management, JWT
-- **AI/ML**: Seq2Seq models for chatbots
-- **Dev Tools**: VS Code, GitHub, Docker, Postman
+### 🧰 Tech Stack
 
-## Projects Overview
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,nextjs,react,tailwind,supabase,postgres,firebase,nodejs,python,vscode&theme=light" />
+</p>
 
-### Farmus
-Farmus is an app for farmers to register, showcase their products, and connect with clients. The app includes:
-- Authentication (Google Sign-In)
-- Profile management with editable user info
-- Product listing and deletion
-- Dynamic routing for user profiles
+---
 
-Tech Stack:
-- React Native (Expo)
-- MongoDB (for product and user data)
-- AsyncStorage for session management
-- Tailwind CSS for styling
+### 📊 GitHub Stats
 
-### Glamora
-Glamora is a beauty e-commerce platform where users can shop for beauty products. It includes a chatbot designed to engage users in natural conversations, offering a personalized shopping experience.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jansencodez&show_icons=true&theme=tokyonight&count_private=true&hide=issues" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jansencodez&theme=tokyonight" height="180px"/>
+</p>
 
-Tech Stack:
-- Next.js
-- Tailwind CSS for styling
-- AI-based chatbot using natural language processing
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jansencodez&theme=tokyo-night" width="100%" />
+</p>
 
-### Weva Tech
-Weva Tech is a new tech company based in Kenya. Currently, we are working on various projects, including AI models, SaaS products, and backend solutions. We plan to build innovative products that solve real-world problems in East Africa and beyond.
+---
 
-Tech Stack:
-- FastAPI (for backend development)
-- MongoDB (for data storage)
-- Python, JavaScript
+### 📂 Highlight Projects
 
-## Notable Contributions
+| Project         | Stack                                               | Description                                                             |
+|-----------------|------------------------------------------------------|-------------------------------------------------------------------------|
+| **Tuwash**      | Flutter · Supabase · Riverpod                       | Multi-tenant SaaS for laundry businesses in Kenya                      |
+| **Bytenuru**    | Brand System · Tech Stack Studio                    | Evolution of Weva Tech — my bold, minimalist product studio            |
+| **FarmYetu**    | Flutter · Supabase · Location & Storage             | Marketplace for farm services & produce, rebranded from Farmus         |
+---
 
-### Authentication & Session Management
-- Integrated Google authentication and session management in various projects.
-- Implemented token refresh mechanisms to ensure smooth user experience across devices and browsers.
+### 🔗 Let’s Connect
 
-### Product Management in Farmus
-- Developed functionality to list, manage, and delete products, ensuring proper user-role-based access.
+<p align="left">
+  <a href="https://linkedin.com/in/jansencodez" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/jansencodez" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:jansencodez@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://jansencodez.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
-### AI-Chatbot Development
-- Working on Seq2Seq models for building chatbots capable of engaging users in casual conversations.
+---
 
-### Theme Management in Apps
-- Integrated theme management, allowing users to toggle between light and dark modes with seamless updates.
-
-## Contact
-
-Feel free to reach out for collaborations, questions, or just a chat about tech! You can find me on [My portfolio](https://cliffjansen.vercel.app/).
-
-Thanks for visiting my GitHub profile!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jansencodez&label=Profile%20views&color=0e75b6&style=flat" alt="jansencodez" />
+</p>
