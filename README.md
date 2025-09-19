@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Jansen (aka jansencodez)</h1>
-<h3 align="center">🧑‍💻 Student · Software Engineer · Startup Builder</h3>
+<h1 align="center">Hey 👋, I'm Jansen</h1>
+<h3 align="center">🚀 Startup Builder · Software Engineer · Student</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jansencodez/jansencodez/main/assets/banner.png" alt="Banner" />
@@ -9,18 +9,18 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building: **Tuwash** (Laundry SaaS), **Bytenuru** (My product studio), and **ThoughtChain** (AI-powered finance insight tool)
-- 🛠 I work with: **Flutter**, **Next.js**, **Supabase**, **FastAPI**, **Tailwind**, and more
-- 🧠 Exploring: agentic AI, multi-tenant systems, advanced Supabase RLS, and design systems
-- 🎧 Coder by day, vibing to music by night
-- 🌍 Based in Kenya, solving problems globally
+- 🔭 Currently building: **Tuwash** (Laundry SaaS), **Bytenuru** (Product Studio), and **Simple Docx** (docx toolkit + SaaS playground)  
+- 🛠 I love working with: **Flutter**, **Next.js**, **Supabase**, **FastAPI**, **TailwindCSS**  
+- 🧠 Exploring: **agentic AI**, **multi-tenant systems**, **Supabase RLS**, and **design systems**  
+- 🎧 Music keeps me in flow, code keeps me grounded  
+- 🌍 Based in Kenya, solving problems for the world  
 
 ---
 
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,nextjs,react,tailwind,supabase,postgres,firebase,nodejs,python,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,nextjs,react,tailwind,supabase,postgres,firebase,nodejs,python,go,cpp,vscode&theme=light" />
 </p>
 
 ---
@@ -33,6 +33,10 @@
 </p>
 
 <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jansencodez&layout=compact&theme=tokyonight" width="40%" />
+</p>
+
+<p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jansencodez&theme=tokyo-night" width="100%" />
 </p>
 
@@ -40,11 +44,22 @@
 
 ### 📂 Highlight Projects
 
-| Project         | Stack                                               | Description                                                             |
-|-----------------|------------------------------------------------------|-------------------------------------------------------------------------|
-| **Tuwash**      | Flutter · Supabase · Riverpod                       | Multi-tenant SaaS for laundry businesses in Kenya                      |
-| **Bytenuru**    | Brand System · Tech Stack Studio                    | Evolution of Weva Tech — my bold, minimalist product studio            |
-| **FarmYetu**    | Flutter · Supabase · Location & Storage             | Marketplace for farm services & produce, rebranded from Farmus         |
+| Project         | Stack                                      | Description |
+|-----------------|---------------------------------------------|-------------|
+| **Tuwash**      | Flutter · Supabase · Riverpod              | Multi-tenant SaaS for laundry businesses in Kenya |
+| **Bytenuru**    | Brand System · Tech Stack Studio           | Evolution of Weva Tech — my bold, minimalist product studio |
+| **Simple Docx** | Next.js · Node · Supabase (SaaS Playground)| Library + hosted app for building & publishing documents |
+| **FarmYetu**    | Flutter · Supabase · Location & Storage    | Marketplace for farm services & produce, rebranded from Farmus |
+| **ThoughtChain**| Next.js · FastAPI · Sonar API              | AI-powered investment insight platform |
+
+---
+
+### 📌 What I’m Up To
+
+- Writing my own low-level tooling experiments 🛠  
+- Turning ideas into npm packages 📦  
+- Exploring SaaS business models 💡  
+
 ---
 
 ### 🔗 Let’s Connect
