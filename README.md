@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Startup Builder · Software Engineer · Student</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jansencodez/jansencodez/main/assets/banner.jpeg" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/jansencodez/main/assets/banner.jpeg" alt="Banner" />
 </p>
 
 ---
