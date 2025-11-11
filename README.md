@@ -20,7 +20,7 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,nextjs,react,tailwind,supabase,postgres,firebase,nodejs,python,go,cpp,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,nextjs,react,tailwind,supabase,postgres,firebase,nodejs,python,go,cpp,kotlin&theme=light" />
 </p>
 
 ---
