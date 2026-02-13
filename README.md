@@ -46,8 +46,10 @@
 
 | Project         | Stack                                      | Description |
 |-----------------|---------------------------------------------|-------------|
+| **WhatLeadz**   | Next.js · Express.js · PostgresSQL · CloudAPI(Meta) | WhatsApp Leads Management |
 | **Tuwash**      | Flutter · Supabase · Riverpod              | Multi-tenant SaaS for laundry businesses in Kenya |
 | **Bytenuru**    | Brand System · Tech Stack Studio           | Evolution of Weva Tech — my bold, minimalist product studio |
+| **DataMind**    | React.js · FastAPI · MongoDB               | AI powered Data Analysis tool |
 | **Simple Docx** | Next.js · Node · Supabase (SaaS Playground)| Library + hosted app for building & publishing documents |
 | **FarmYetu**    | Flutter · Supabase · Location & Storage    | Marketplace for farm services & produce, rebranded from Farmus |
 | **ThoughtChain**| Next.js · FastAPI · Sonar API              | AI-powered investment insight platform |
