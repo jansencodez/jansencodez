@@ -1,9 +1,5 @@
 <h1 align="center">Hey, I'm Jansen</h1>
-<h3 align="center">Startup Builder · Software Engineer · Student</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jansencodez/main/assets/banner.jpeg" alt="Banner" />
-</p>
+<h3 align="center">Startup Builder · Software Engineer</h3>
 
 ---
 
