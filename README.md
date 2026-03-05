@@ -29,11 +29,11 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jansencodez&show_icons=true&theme=tokyonight&count_private=true&hide=issues" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jansencodez&theme=tokyonight" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=jansencodez&theme=tokyonight" height="180px"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jansencodez&layout=compact&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jansencodez&layout=compact&theme=tokyonight&cache_seconds=1800" width="40%" />
 </p>
 
 <p align="left">
