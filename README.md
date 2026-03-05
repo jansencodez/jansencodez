@@ -9,18 +9,18 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building: **Tuwash** (Laundry SaaS), **Bytenuru** (Product Studio), and **Simple Docx** (docx toolkit + SaaS playground)  
+- 🔭 Currently building: **[Tuwash](https://tuwash.example.com)** (Laundry SaaS), **[Bytenuru](https://bytenuru.com)** (Product Studio), **[Simple Docx](https://simple-docx.example.com)** (docx toolkit + SaaS playground)  
 - 🛠 I love working with: **Flutter**, **Next.js**, **Supabase**, **FastAPI**, **TailwindCSS**  
-- 🧠 Exploring: **agentic AI**, **multi-tenant systems**, **Supabase RLS**, and **design systems**  
+- 🧠 Exploring: **agentic AI**, **multi-tenant systems**, **Supabase RLS**, **design systems**  
 - 🎧 Music keeps me in flow, code keeps me grounded  
-- 🌍 Based in Kenya, solving problems for the world  
+- 🌍 Based in Kenya, building solutions for the world  
 
 ---
 
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,nextjs,react,tailwind,supabase,postgres,firebase,nodejs,python,go,cpp,kotlin&theme=light" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,nextjs,react,tailwind,supabase,postgres,firebase,nodejs,python,go,cpp,kotlin,docker,redis&theme=light" />
 </p>
 
 ---
@@ -28,12 +28,12 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jansencodez&show_icons=true&theme=tokyonight&count_private=true&hide=issues" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=jansencodez&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jansencodez&show_icons=true&theme=tokyonight&count_private=true&hide=issues,contribs" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jansencodez&theme=tokyonight" height="180px"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jansencodez&layout=compact&theme=tokyonight&cache_seconds=1800" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jansencodez&layout=compact&theme=tokyonight" width="40%" />
 </p>
 
 <p align="left">
@@ -45,22 +45,22 @@
 ### 📂 Highlight Projects
 
 | Project         | Stack                                      | Description |
-|-----------------|---------------------------------------------|-------------|
-| **WhatLeadz**   | Next.js · Express.js · PostgresSQL · CloudAPI(Meta) | WhatsApp Leads Management |
-| **Tuwash**      | Flutter · Supabase · Riverpod              | Multi-tenant SaaS for laundry businesses in Kenya |
-| **Bytenuru**    | Brand System · Tech Stack Studio           | Evolution of Weva Tech — my bold, minimalist product studio |
-| **DataMind**    | React.js · FastAPI · MongoDB               | AI powered Data Analysis tool |
-| **Simple Docx** | Next.js · Node · Supabase (SaaS Playground)| Library + hosted app for building & publishing documents |
-| **FarmYetu**    | Flutter · Supabase · Location & Storage    | Marketplace for farm services & produce, rebranded from Farmus |
-| **ThoughtChain**| Next.js · FastAPI · Sonar API              | AI-powered investment insight platform |
+|-----------------|-------------------------------------------|-------------|
+| **[WhatLeadz](https://whatleadz.example.com)**   | Next.js · Express.js · PostgreSQL · CloudAPI(Meta) | WhatsApp Leads Management |
+| **[Tuwash](https://tuwash.example.com)**        | Flutter · Supabase · Riverpod              | Multi-tenant SaaS for laundry businesses in Kenya |
+| **[Bytenuru](https://bytenuru.com)**           | Brand System · Tech Stack Studio           | Evolution of Weva Tech — a minimalist product studio |
+| **[DataMind](https://datamind.example.com)**   | React.js · FastAPI · MongoDB               | AI-powered Data Analysis tool |
+| **[Simple Docx](https://simple-docx.example.com)** | Next.js · Node · Supabase (SaaS Playground)| Library + hosted app for building & publishing documents |
+| **[FarmYetu](https://farmyetu.example.com)**   | Flutter · Supabase · Location & Storage    | Marketplace for farm services & produce, rebranded from Farmus |
+| **[ThoughtChain](https://thoughtchain.example.com)** | Next.js · FastAPI · Sonar API              | AI-powered investment insight platform |
 
 ---
 
 ### 📌 What I’m Up To
 
-- Writing my own low-level tooling experiments 🛠  
-- Turning ideas into npm packages 📦  
-- Exploring SaaS business models 💡  
+- 🛠 Writing low-level tooling experiments  
+- 📦 Turning ideas into npm packages  
+- 💡 Exploring SaaS business models  
 
 ---
 
@@ -84,5 +84,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jansencodez&label=Profile%20views&color=0e75b6&style=flat" alt="jansencodez" />
+  <img src="https://img.shields.io/badge/Profile%20views-💻-blue?style=flat" alt="Profile views" />
 </p>
