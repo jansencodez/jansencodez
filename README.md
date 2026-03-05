@@ -29,7 +29,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jansencodez&show_icons=true&theme=tokyonight&count_private=true&hide=issues,contribs" width="48%" />
-  <img src="https://[github-readme-streak-stats.herokuapp.com](https://github-readme-stats-pi-one-3pivhtfjmp.vercel.app)/?user=jansencodez&theme=tokyonight" height="180px"/>
+  
 </p>
 
 <p align="left">
