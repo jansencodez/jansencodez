@@ -33,7 +33,7 @@
 </p>
 
 <p align="left">
-  <img align="left" src="[https://github-readme-stats-pi-one-3pivhtfjmp.vercel.app/api/top-langs/?username=jansencodez&layout=compact&theme=tokyonight&langs_count=10&hide=html,css](https://github-readme-stats-pi-one-3pivhtfjmp.vercel.app/api/top-langs/?username=jansencodez&layout=compact&theme=tokyonight&langs_count=10&hide=html,css)" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats-pi-one-3pivhtfjmp.vercel.app/api/top-langs/?username=jansencodez&layout=compact&theme=tokyonight&langs_count=10&hide=html,css" alt="Top Languages" />
 </p>
 
 <p align="left">
