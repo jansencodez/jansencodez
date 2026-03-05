@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Jansen</h1>
-<h3 align="center">🚀 Startup Builder · Software Engineer · Student</h3>
+<h1 align="center">Hey, I'm Jansen</h1>
+<h3 align="center">Startup Builder · Software Engineer · Student</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jansencodez/main/assets/banner.jpeg" alt="Banner" />
@@ -7,28 +7,26 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🔭 Currently building: **[Tuwash](https://tuwash.example.com)** (Laundry SaaS), **[Bytenuru](https://bytenuru.com)** (Product Studio), **[Simple Docx](https://simple-docx.example.com)** (docx toolkit + SaaS playground)  
-- 🛠 I love working with: **Flutter**, **Next.js**, **Supabase**, **FastAPI**, **TailwindCSS**  
-- 🧠 Exploring: **agentic AI**, **multi-tenant systems**, **Supabase RLS**, **design systems**  
-- 🎧 Music keeps me in flow, code keeps me grounded  
-- 🌍 Based in Kenya, building solutions for the world  
+- Currently building: **[Tuwash](https://tuwash.example.com)** (Laundry SaaS), **[Bytenuru](https://bytenuru.com)** (Product Studio), **[Simple Docx](https://simple-docx.example.com)** (docx toolkit + SaaS playground)  
+- Technologies I work with: **Flutter**, **Next.js**, **Supabase**, **FastAPI**, **TailwindCSS**  
+- Exploring: **agentic AI**, **multi-tenant systems**, **Supabase RLS**, **design systems**  
+- Based in Kenya, building solutions for global users  
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,nextjs,react,tailwind,supabase,postgres,firebase,nodejs,python,go,cpp,kotlin,docker,redis&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,flutter,dart,js,nextjs,react,tailwind,docker,postgres,gcp,supabase,firebase,nodejs,python,go,cpp,c,kotlin,redis&theme=light" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jansencodez&theme=tokyonight" height="180px"/>
 </p>
 
@@ -42,29 +40,28 @@
 
 ---
 
-### 📂 Highlight Projects
+### Highlight Projects
 
 | Project         | Stack                                      | Description |
 |-----------------|-------------------------------------------|-------------|
-| **[WhatLeadz](https://whatleadz.example.com)**   | Next.js · Express.js · PostgreSQL · CloudAPI(Meta) | WhatsApp Leads Management |
-| **[Tuwash](https://tuwash.example.com)**        | Flutter · Supabase · Riverpod              | Multi-tenant SaaS for laundry businesses in Kenya |
+| **[Biashara Chats](https://biasharachats.co.ke)**   | Next.js · Node.js · PostgreSQL · CloudAPI(Meta) | WhatsApp Leads Management |
+| **[Tuwash](https://tuwash.bytenuru.com)**        | Flutter · Supabase · Riverpod · Express.js             | Multi-tenant SaaS for laundry businesses in Kenya |
 | **[Bytenuru](https://bytenuru.com)**           | Brand System · Tech Stack Studio           | Evolution of Weva Tech — a minimalist product studio |
-| **[DataMind](https://datamind.example.com)**   | React.js · FastAPI · MongoDB               | AI-powered Data Analysis tool |
-| **[Simple Docx](https://simple-docx.example.com)** | Next.js · Node · Supabase (SaaS Playground)| Library + hosted app for building & publishing documents |
-| **[FarmYetu](https://farmyetu.example.com)**   | Flutter · Supabase · Location & Storage    | Marketplace for farm services & produce, rebranded from Farmus |
-| **[ThoughtChain](https://thoughtchain.example.com)** | Next.js · FastAPI · Sonar API              | AI-powered investment insight platform |
+| **[Simple Docx](#)** | Next.js · Node · Supabase (SaaS Playground)| Library + hosted app for building & publishing documents |
+| **[FarmYetu](#)**   | Flutter · Supabase · Location & Storage    | Marketplace for farm services & produce, rebranded from Farmus |
 
 ---
 
-### 📌 What I’m Up To
+### Current Focus
 
-- 🛠 Writing low-level tooling experiments  
-- 📦 Turning ideas into npm packages  
-- 💡 Exploring SaaS business models  
+- Exploring SaaS business models 
+- Writing low-level tooling experiments  
+- Turning ideas into reusable packages  
+ 
 
 ---
 
-### 🔗 Let’s Connect
+### Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/jansencodez" target="_blank">
