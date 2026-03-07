@@ -5,7 +5,7 @@
 
 ### About Me
 
-- Currently building: **[Tuwash](https://tuwash.example.com)** (Laundry SaaS), **[Bytenuru](https://bytenuru.com)** (Product Studio), **[Simple Docx](https://simple-docx.example.com)** (docx toolkit + SaaS playground)  
+- Currently building: **[Biashara Chats](https://www.biasharachats.co.ke)** (WhatsApp Leads CRM), **[Tuwash](https://tuwash.bytenuru.com)** (Laundry SaaS), **[Bytenuru](https://bytenuru.com)** (Product Studio), **[Simple Docx](https://simple-docx.example.com)** (docx toolkit + SaaS playground)  
 - Technologies I work with: **Flutter**, **Next.js**, **Supabase**, **FastAPI**, **TailwindCSS**  
 - Exploring: **agentic AI**, **multi-tenant systems**, **Supabase RLS**, **design systems**  
 - Based in Kenya, building solutions for global users  
