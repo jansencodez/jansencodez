@@ -77,5 +77,6 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20views-💻-blue?style=flat" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jansencodez.jansencodez" alt="Profile views" />
 </p>
+
