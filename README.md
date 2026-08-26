@@ -5,7 +5,7 @@
 
 ### About Me
 
-- Currently building: **[Biashara Chats](https://www.biasharachats.co.ke)** (WhatsApp Leads CRM), **[Tuwash](https://tuwash.bytenuru.com)** (Laundry SaaS), **[Bytenuru](https://bytenuru.com)** (Product Studio), **[Simple Docx](https://simple-docx.example.com)** (docx toolkit + SaaS playground), ByteNuru's internal tooling  
+- Currently building: **[Biashara Chats](https://www.biasharachats.co.ke)** (WhatsApp Leads CRM), **[Shulio](https://tuwash.bytenuru.com)** (School Management System), **[Bytenuru](https://bytenuru.com)** (Product Studio), **[Bytenuru ERP](https://simple-docx.example.com)** (Erp system), ByteNuru's internal tooling  
 - Technologies I work with: **Flutter**, **Next.js**, **Postgresql**, **FastAPI**, **TailwindCSS**  
 - Exploring: **agentic AI**, **multi-tenant systems**, **Postgresql**, **design systems**  
 - Based in Kenya, building solutions for global users  
